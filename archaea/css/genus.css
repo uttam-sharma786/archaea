@@ -1,0 +1,140 @@
+
+#genusDiv{
+	margin-top:10px;
+	height:150px;
+	width:650px;
+	border:solid black 0px;
+}
+
+#genus1,#genus2,#genus3, #genus4,#genus5,#genus6,#genus7,#genus8,#genus9,#genus10,#genus11,#genus12{
+	height:70px;
+	width:190px;
+	border:solid #555554 2px;
+	border-radius:80px;
+	padding-top:70px;
+	font: bold 1.2em serif;
+	color:#FFFFA2;
+	background-size:220px 180px;
+	box-shadow:10px 10px 10px #232323;
+}
+
+#genus1,#genus2,#genus4,#genus5,#genus7,#genus8,#genus10,#genus11{
+	float:left;
+	margin-right:30px;
+}
+
+#genus3,#genus6,#genus9,#genus12{
+	float:right;
+}
+
+#genus1{
+	background-image:url(../../../project/docter/images/enterobacter_default.jpg);
+}
+#genus2{
+	background-image:url(../../../project/docter/images/erwinia_default.jpg);
+}
+#genus3{
+	background-image:url(../../../project/docter/images/escherichia_default.jpg);
+}
+#genus4{
+	background-image:url(../../../project/docter/images/salmonella_default.jpg);
+}
+
+#genus5{
+	background-image:url(../../../project/docter/images/citrobacter_default.jpg);
+}
+#genus6{	
+	background-image:url(../../../project/docter/images/yersinia_default.jpg);
+}
+#genus7{	
+	background-image:url(../../../project/docter/images/klebsiella_default.jpg);
+}
+#genus8{	
+	background-image:url(../../../project/docter/images/shigella_default.jpg);
+}
+#genus9{	
+	background-image:url(../../../project/docter/images/serratia_default.jpg);
+}
+#genus10{	
+	background-image:url(../../../project/docter/images/proteus_default.jpg);
+}
+#genus11{	
+	background-image:url(../../../project/docter/images/providencia_default.jpg);
+}
+#genus12{	
+	background-image:url(../../../project/docter/images/morganella_default.jpg);
+}
+
+
+#genus1:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/enterobacter_default.jpg);
+}
+#genus2:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/erwinia_default.jpg);
+}
+#genus3:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/escherichia_default.jpg);
+}
+#genus4:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/salmonella_default.jpg);
+}
+#genus5:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/citrobacter_default.jpg);
+}
+#genus6:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/yersinia_default.jpg);
+}
+#genus7:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/klebsiella_default.jpg);
+}
+#genus8:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/shigella_default.jpg);
+}
+#genus9:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/serratia_default.jpg);
+}
+#genus10:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/proteus_default.jpg);
+}
+#genus11:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/providencia_default.jpg);
+}
+#genus12:hover{
+	font-weight: bold ;
+	font-size:150%;
+	color:white;
+	background:url(../../../project/docter/images/morganella_default.jpg);
+}

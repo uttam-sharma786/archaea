@@ -1,0 +1,21 @@
+
+
+#side_pane{
+	height:660px;
+	width:250px;
+	border:solid black 0px;
+	float:left;
+	border-radius: 0px 0px 0px 30px;
+	overflow:auto;
+}
+
+#genus_record{
+	border:solid black 0px;
+/*
+	width:600px;
+	float:right;
+*/
+	border-radius: 0px 0px 30px 0px;
+}
+
+#info_td{font:bold 12px sans;}
